@@ -1,2 +1,14 @@
-# Todo-List
-A simple Todo List app built using HTML, CSS, and JavaScript. Users can add and delete tasks with a clean and responsive UI.
+# Todo List 
+
+This is a simple Todo List web app made using HTML, CSS, and JavaScript.
+
+Features:
+- Add new tasks
+- Delete tasks
+- Clean and simple UI
+- Beginner-friendly project
+
+This project helped me practice DOM manipulation and basic JavaScript concepts.
+
+Note: This is a basic demo project created for learning purposes.
+
